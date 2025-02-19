@@ -11,9 +11,5 @@ export type CreateUserDto = {
      * User password (Min 6 char!)
      */
     password: string;
-    /**
-     * test
-     */
-    test: string;
 };
 
